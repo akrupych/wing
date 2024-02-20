@@ -1,0 +1,5 @@
+package com.wing.wing
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
